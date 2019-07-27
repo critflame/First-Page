@@ -1,5 +1,9 @@
-@import 'font-face.css';
 h1{
-    font-family:Ubuntu_Italic;
+    font-family:'Ubuntu Regular Italic', sans-serif;
     color: Tomato;
+}
+p{
+    font-family: 'Ubuntu Mono', monospace;
+    font-style: italic;
+    color:darkred;
 }
